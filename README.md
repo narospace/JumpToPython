@@ -1,6 +1,6 @@
 # 점프 투 파이썬
 파이썬 기초
-
+![책](https://wikidocs.net/images//book/j2p_title_new2_S1JyeeE.jpg)
 * 02장 파이썬 프로그래밍의 기초
   * 자료형
     * 02-1 숫자형
