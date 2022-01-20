@@ -1,0 +1,90 @@
+======================================= 파이썬 개발환경 구축 ========================================
+
+
+> 컴퓨터 : 파일탐색기 보기설정-> 파일확장명/숨김파일 (v) 
+
+> 텍스트 에디터(메모장 등 코드를 작성할 수 있는 프로그램)
+    실행1) hello.py 프로그램 작성 및 실행
+        - 메모장에 print("Hello World!") 작성
+        - 파일 확장자 .py로 저장
+        - 파이썬 실행기 설치 : 파이썬으로 작성된 코드를 실행해 주는 프로그램(interpreter)
+        - cmd(Command) : MS Windows OS의 커맨드라인 해석기(CLI)
+        - hello.py 실행
+
+> 코드 실행기(파이썬 인터프리터) 필요
+
+> '파이썬' 검색 -> https://www.python.org/
+
+IDE: Integrated Development Environment
+	텍스트에디터 + 코드 실행기 : 프로젝트 생성, 자동완성, 디버깅 등의 기능을 제공하는 환경
+	자바의 IntelliJ / Eclipse, C언어의 Codeblocks / 비주얼스튜디오 ...
+	
+	파이썬 IDE
+	Jupyter Notebook, PyCharm, Spyder, Visual Studio Code, Sublime Text, Atom, Vim ...
+
+    실행2) 파이썬 인터렉티브 셸(대화형 셸) 실행
+        : 명령어를 한 줄 한 줄 입력하면서 실행결과를 출력하는 프로그램
+          간단한 실행결과 등을 확인할 때 활용
+
+    실행3) 파이썬 IDLE 에디터 실행
+        : 긴 코드를 입력하거나 코드를 저장해야 할 때 사용
+          간단한 파이썬 통합개발환경(IDE)
+          sample.py
+          [New File]-[Save]-[Run]-[Run Module](F5)
+
+> 'vscode' 검색 -> https://code.visualstudio.com/
+
+> 개발 전용 폰트(D2Coding) 설치 : 글자 구분/ 글자너비를 통일하기 위해
+
+    o0O 
+    lI|
+    ABC
+    IJK
+
+    실행4) 비주얼 스튜디오 코드(VS Code) 실행
+        : MS 소스코드 편집기(디버깅/Git제어/자동완성/확장기능 사용)
+            
+            > 코드 작성하고 실행하기
+            - sample2.py
+            - 탐색기를 열고 코드 파일을 저장한 폴더 이동
+            - 마우스 오른 버튼 [여기서 PowerSell 창 열기]
+            - python hello2.py 입력
+
+        [Options]-[Configure IDLE]
+
+        [Settings] 
+        - [Fonts/Tabs] 탭 Font Face: D2Coding
+        - [HighLights] 탭 
+            
+
+
+    실행5) Extension 설치
+            - Material Icon Theme
+            - Jupyter
+            - Pylance
+            - Python
+            - TabOut
+
+            > .ipynb 파일 생성
+            : 주피터 노트북 실행
+
+    실행6) google colab 실행
+        : 클라우드 환경에서 주피터 노트북 실행 환경 제공
+
+    실행7) https://pythontutor.com : Online Python Compiler(Interpreter)
+           https://docs.python.org
+           http://www.binaryconvert.com/
+           https://hashcode.co.kr/code_runners
+           
+
+
+
+
+
+
+
+
+
+
+
+
